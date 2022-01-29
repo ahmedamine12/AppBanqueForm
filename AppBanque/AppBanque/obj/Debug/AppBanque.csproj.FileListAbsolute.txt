@@ -1,0 +1,13 @@
+C:\Users\bouri\source\repos\AppBanque\AppBanque\bin\Debug\AppBanque.exe.config
+C:\Users\bouri\source\repos\AppBanque\AppBanque\bin\Debug\AppBanque.exe
+C:\Users\bouri\source\repos\AppBanque\AppBanque\bin\Debug\AppBanque.pdb
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.csproj.AssemblyReference.cache
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.Form1.resources
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.ClientInfo.resources
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.Properties.Resources.resources
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.csproj.GenerateResource.cache
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.csproj.CoreCompileInputs.cache
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.exe
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.pdb
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.InfoCompte.resources
+C:\Users\bouri\source\repos\AppBanque\AppBanque\obj\Debug\AppBanque.OperationInfo.resources
